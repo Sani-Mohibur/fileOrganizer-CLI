@@ -1,6 +1,6 @@
 # 📂 File Organizer CLI
 
-A simple and efficient Node.js automation script that generates dummy test files and organizes them into categorized folders based on their file extensions.
+A simple Node.js CLI tool that automatically organizes files into categorized folders based on their extensions. Includes a built-in test mode to generate dummy files and demonstrate the organizer in action.
 
 ## 🚀 Features
 
